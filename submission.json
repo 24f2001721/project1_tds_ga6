@@ -1,0 +1,6 @@
+{
+  "prompt": "A cobbler's workshop under a single hanging lamp. On the left: a tall plaster leg cast wearing one burgundy leather oxford shoe — perfect fit, leather smooth, every seam aligned. On the right: a cobbler's hands holding that SAME shoe toward a second shorter wider plaster foot cast, the shoe clearly a different shape from the new cast. Rows of identical wooden lasts on shelves behind. Photorealistic, cinematic, 50mm lens. No text, no labels, no annotations.",
+  "model": "Ideogram 2",
+  "concept": "overfitting",
+  "metaphor": "A shoe stitched for one exact cast fits it perfectly but cannot fit the different second foot — a model memorizing training data fails to generalize."
+}
